@@ -48,7 +48,9 @@ to see all options and their defaults.
 .venv/bin/python run.py fluid --workers 4
 ```
 
-![Figure 2: Fluid inverse problem](assets/figure2.png)
+<p align="center">
+  <img src="assets/figure2.png" alt="Figure 2: Fluid inverse problem" width="70%">
+</p>
 
 ### Figure 3: Molecular geometry optimization
 
@@ -56,7 +58,9 @@ to see all options and their defaults.
 .venv/bin/python run.py molecules --workers 4
 ```
 
-![Figure 3: Molecular geometry optimization](assets/figure3.png)
+<p align="center">
+  <img src="assets/figure3.png" alt="Figure 3: Molecular geometry optimization" width="70%">
+</p>
 
 ### Figure 4: Effect of hint space dimension
 
@@ -64,7 +68,9 @@ to see all options and their defaults.
 .venv/bin/python run.py fluid --workers 4 --hint-dim 1 2 4 8
 ```
 
-![Figure 4: Effect of hint space dimension](assets/figure4.png)
+<p align="center">
+  <img src="assets/figure4.png" alt="Figure 4: Effect of hint space dimension" width="70%">
+</p>
 
 By default, Figures 2 and 4 use 20 paired runs, and Figure 3 uses 10 starting
 conformations per molecule. Each run has 100 optimization steps.
