@@ -15,31 +15,6 @@ Use Python 3.9-3.12 and a C++17 compiler on macOS or Linux.
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 ```
-
-## Run custom experiments
-
-Use `fluid` or `molecules` to select the experiment. For example:
-
-```bash
-.venv/bin/python run.py fluid --steps 200 --seeds 5 \
-    --query-budget 32 --discount 0.8 --output results/custom_fluid
-```
-
-| Option | Use |
-| --- | --- |
-| `--steps` | Optimization steps per run |
-| `--seeds` | Number of paired fluid runs, including a single run |
-| `--conformations` | Number of starting conformations per molecule, from 1 to 10 |
-| `--query-budget` | Queries per zeroth-order update, including the current value |
-| `--norm-queries` | Queries allocated to the CV-ZOD norm estimates |
-| `--discount` | Discount factor, from 0 up to but excluding 1 |
-| `--hint-dim` | Hint space dimension k; accepts a list and defaults to 1 |
-| `--radius` | Finite-difference radius |
-
-Use a separate `--output` directory when changing settings other than `--hint-dim`.
-Values of `k` and norm queries must fit the query budget. Run `.venv/bin/python run.py --help`
-to see all options and their defaults.
-
 ## Reproduce the paper figures
 
 ### Figure 2: Fluid inverse problem
@@ -80,6 +55,30 @@ Results are saved under `results/`. Rerun the same command to reuse completed
 runs and finish interrupted work. Figures 2 and 4 reuse their shared runs.
 Adjust `--workers` to change parallelism, or use `--output PATH` to choose
 another output directory.
+
+## Run custom experiments
+
+Use `fluid` or `molecules` to select the experiment. For example:
+
+```bash
+.venv/bin/python run.py fluid --steps 200 --seeds 5 \
+    --query-budget 32 --discount 0.8 --output results/custom_fluid
+```
+
+| Option | Use |
+| --- | --- |
+| `--steps` | Optimization steps per run |
+| `--seeds` | Number of paired fluid runs, including a single run |
+| `--conformations` | Number of starting conformations per molecule, from 1 to 10 |
+| `--query-budget` | Queries per zeroth-order update, including the current value |
+| `--norm-queries` | Queries allocated to the CV-ZOD norm estimates |
+| `--discount` | Discount factor, from 0 up to but excluding 1 |
+| `--hint-dim` | Hint space dimension k; accepts a list and defaults to 1 |
+| `--radius` | Finite-difference radius |
+
+Use a separate `--output` directory when changing settings other than `--hint-dim`.
+Values of `k` and norm queries must fit the query budget. Run `.venv/bin/python run.py --help`
+to see all options and their defaults.
 
 ## Plot results
 
