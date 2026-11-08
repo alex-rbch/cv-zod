@@ -1,4 +1,4 @@
-from cvzod.run import main
+from src.run import main
 
 
 if __name__ == '__main__':

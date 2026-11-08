@@ -106,7 +106,7 @@ the CSV also includes alignment along each run's own trajectory.
 run.py                  Run an experiment and generate its plots
 requirements.txt        Python dependencies
 THIRD_PARTY_LICENSES.txt Third-party license and attribution
-cvzod/                  Experiment code
+src/                    Experiment code
 assets/                 Figure previews shown in this README
 results/                Saved runs and generated plots
 ```

@@ -1,4 +1,4 @@
-This license applies to cvzod/fluid_dynamics/gradient.py.
+This license applies to src/fluid_dynamics/gradient.py.
 
 SPDX-FileCopyrightText: Copyright (c) 2025 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
 SPDX-License-Identifier: Apache-2.0
