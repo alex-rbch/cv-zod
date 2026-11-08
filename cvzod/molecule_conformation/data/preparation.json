@@ -1,0 +1,380 @@
+{
+  "cases": [
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_01",
+      "seed": 0,
+      "initial_key": "adenosine__ado_01__initial",
+      "initial_coordinates_sha256": "3bd39a11aff326e94c928bc6c34739db2407d222ab668e01a88851ffe96decf1"
+    },
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_02",
+      "seed": 1,
+      "initial_key": "adenosine__ado_02__initial",
+      "initial_coordinates_sha256": "ffa3335f7623e17d38c3ab387b99d6e1b64253fba1e4bd1288a3a5109c5968c5"
+    },
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_04",
+      "seed": 2,
+      "initial_key": "adenosine__ado_04__initial",
+      "initial_coordinates_sha256": "ffa17663d5e302f8cd5dc8db8dfcb36f9f5a9f64367763c97e4d5d7e162d5f7f"
+    },
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_09",
+      "seed": 3,
+      "initial_key": "adenosine__ado_09__initial",
+      "initial_coordinates_sha256": "9397fcf18ca254a84c87dc8f202ef448e9fe8d181e35bfbba491a8fa7633a771"
+    },
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_12",
+      "seed": 4,
+      "initial_key": "adenosine__ado_12__initial",
+      "initial_coordinates_sha256": "cb9a5d2301a04541b02c7238275240901463d85d544951309f07ff235afe076a"
+    },
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_14",
+      "seed": 5,
+      "initial_key": "adenosine__ado_14__initial",
+      "initial_coordinates_sha256": "9827b29ddafe0d78e47c1c11c573305f998af161b78ce672f8ea38a45ec0db59"
+    },
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_22",
+      "seed": 6,
+      "initial_key": "adenosine__ado_22__initial",
+      "initial_coordinates_sha256": "dff92439833f4a97e781d31a34064a526a78a6876af66f970f05385c47074fb3"
+    },
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_27",
+      "seed": 7,
+      "initial_key": "adenosine__ado_27__initial",
+      "initial_coordinates_sha256": "6683c3f011daec3115aab00c9de1df58a67fbb0416ef39d11ec1788fc0eef7dc"
+    },
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_35",
+      "seed": 8,
+      "initial_key": "adenosine__ado_35__initial",
+      "initial_coordinates_sha256": "6ff833b0de8c3fb8ac2c80c8e180f71c5653b9eb6ce2b6211b90860e86ab272f"
+    },
+    {
+      "molecule": "adenosine",
+      "case_id": "ado_41",
+      "seed": 9,
+      "initial_key": "adenosine__ado_41__initial",
+      "initial_coordinates_sha256": "335cb409d2641fd4d99aad6eb0d21756e6053da89938bf6b88f7cd7ee80510cc"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_01",
+      "seed": 0,
+      "initial_key": "benzylpenicillin__bpn_01__initial",
+      "initial_coordinates_sha256": "cd83c4897a349cc89f0efb2ff73e59787acd57f3b1581277e8647e2d5658759d"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_02",
+      "seed": 1,
+      "initial_key": "benzylpenicillin__bpn_02__initial",
+      "initial_coordinates_sha256": "95543d6e5a7312bc363b72c8d37e78656f3626448355a593ae49db36e5c73667"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_04",
+      "seed": 2,
+      "initial_key": "benzylpenicillin__bpn_04__initial",
+      "initial_coordinates_sha256": "a521d4d1df2cb8a3309694ad6d8eb8cc346b7bb6fef44ceffe495e3ae3e427e4"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_09",
+      "seed": 3,
+      "initial_key": "benzylpenicillin__bpn_09__initial",
+      "initial_coordinates_sha256": "fe506c4f43ecf5b4bd5c41bdc6a49ac7ef586940f65685029b2b4ac6bcfa00c1"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_12",
+      "seed": 4,
+      "initial_key": "benzylpenicillin__bpn_12__initial",
+      "initial_coordinates_sha256": "8201dfe373aa778c38ad5418f1309271b2907b35b0441c10d278882076ca369f"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_14",
+      "seed": 5,
+      "initial_key": "benzylpenicillin__bpn_14__initial",
+      "initial_coordinates_sha256": "528b7d1b476ae0df475758a1895418d0fdc545fb7d30aa4e01dbd1be36ba1bed"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_22",
+      "seed": 6,
+      "initial_key": "benzylpenicillin__bpn_22__initial",
+      "initial_coordinates_sha256": "7359ad38b04e05527268ede3685d8e5eded4f093e00bfaa38e74b74f45b35a4a"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_27",
+      "seed": 7,
+      "initial_key": "benzylpenicillin__bpn_27__initial",
+      "initial_coordinates_sha256": "5643a46057a547582d52597f5fb1d1b29e6897c45fb7e90d3a4ad4769bb536bb"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_35",
+      "seed": 8,
+      "initial_key": "benzylpenicillin__bpn_35__initial",
+      "initial_coordinates_sha256": "07febcf2fec992e3bd8fa66d4a05fa5a4093f3c251b4ea1ef13070b67a9dba41"
+    },
+    {
+      "molecule": "benzylpenicillin",
+      "case_id": "bpn_41",
+      "seed": 9,
+      "initial_key": "benzylpenicillin__bpn_41__initial",
+      "initial_coordinates_sha256": "da8f1e26590f2e537694ae4a840ade202487ede26e740662d364c096664f8fd8"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_01",
+      "seed": 0,
+      "initial_key": "efavirenz__efa_01__initial",
+      "initial_coordinates_sha256": "3b411b355601d6a0fb17c8f14698c718986cb33379e3746ae420a967a34fdf3c"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_02",
+      "seed": 1,
+      "initial_key": "efavirenz__efa_02__initial",
+      "initial_coordinates_sha256": "361d0549956a04ec94f1185f5db34c721530f322cbd794ee4758ab391463e79b"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_04",
+      "seed": 2,
+      "initial_key": "efavirenz__efa_04__initial",
+      "initial_coordinates_sha256": "13423d2818bd7b40ae51f52eae57ef42aa1599f0edeccc9bdcd94f0653b0bf82"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_09",
+      "seed": 3,
+      "initial_key": "efavirenz__efa_09__initial",
+      "initial_coordinates_sha256": "aa501630c2d814bbf39eae8dbe84fa4511970c020f42cac213de0cdb30ea9017"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_12",
+      "seed": 4,
+      "initial_key": "efavirenz__efa_12__initial",
+      "initial_coordinates_sha256": "98fe67ea99102771980a47b3c68baf69d5b0fe37bcf01ecc7efaf7b1d2d354a5"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_14",
+      "seed": 5,
+      "initial_key": "efavirenz__efa_14__initial",
+      "initial_coordinates_sha256": "de6071395740c1ebbd74a4234d2c3b6300e4e0562a10b4afba9a40110860451d"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_22",
+      "seed": 6,
+      "initial_key": "efavirenz__efa_22__initial",
+      "initial_coordinates_sha256": "a7a62ed80223bcec769f1e5991e913b8efff6f9e43aa4708c3f4c331c05c1751"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_27",
+      "seed": 7,
+      "initial_key": "efavirenz__efa_27__initial",
+      "initial_coordinates_sha256": "2b46de4affba9fbea1081461e268abac9008c42f46e3d891533b0c5885a52175"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_35",
+      "seed": 8,
+      "initial_key": "efavirenz__efa_35__initial",
+      "initial_coordinates_sha256": "ece6f87b68993f95f2f9d3fdf49fb1341ea4130682d1e8c66cdb889b9dbfb3b4"
+    },
+    {
+      "molecule": "efavirenz",
+      "case_id": "efa_41",
+      "seed": 9,
+      "initial_key": "efavirenz__efa_41__initial",
+      "initial_coordinates_sha256": "9e2303afada745ec0ecfd35dd493a39fdcaaa0a43f601adc6f256d7f46808d20"
+    }
+  ],
+  "topologies": {
+    "adenosine": {
+      "symbols": [
+        "N",
+        "C",
+        "C",
+        "N",
+        "C",
+        "N",
+        "C",
+        "N",
+        "C",
+        "C",
+        "O",
+        "C",
+        "C",
+        "O",
+        "C",
+        "O",
+        "C",
+        "O",
+        "N",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H"
+      ],
+      "molblock": "\n     RDKit          3D\n\n 32 34  0  0  0  0  0  0  0  0999 V2000\n    2.3909   -1.9424   -0.5421 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4872   -0.6170   -0.1650 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5888    0.2080    0.1175 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3655    1.4861    0.4571 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.1081    1.9234    0.5136 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.9884    1.2417    0.2682 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2265   -0.0310   -0.0689 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3388   -1.0343   -0.3932 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1088   -2.1465   -0.6710 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1038   -0.9679   -0.4585 C   0  0  2  0  0  0  0  0  0  0  0  0\n   -1.4912    0.0324   -1.3629 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.6809    0.7182   -0.8887 C   0  0  1  0  0  0  0  0  0  0  0  0\n   -3.1047   -0.0119    0.3837 C   0  0  1  0  0  0  0  0  0  0  0  0\n   -4.0254   -1.0367    0.0434 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7882   -0.6282    0.8689 C   0  0  1  0  0  0  0  0  0  0  0  0\n   -1.9700   -1.8132    1.6322 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.3681    2.1923   -0.6886 C   0  0  2  0  0  0  0  0  0  0  0  0\n   -1.5620    2.4463    0.4400 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8557   -0.2436    0.0669 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9787    2.9631    0.7916 H   0  0  0  0  0  0  0  0  0  0  0  0\n    0.6463   -3.0773   -0.9595 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4397   -1.9583   -0.7837 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.4551    0.6026   -1.6505 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5308    0.6755    1.1192 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9315   -1.7319    0.7095 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.2073    0.1157    1.4108 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.8595   -1.6086    2.5654 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.3098    2.7272   -0.5392 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.9100    2.5725   -1.6095 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6627    2.0783    0.2927 H   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0416   -1.1800   -0.2444 H   0  0  0  0  0  0  0  0  0  0  0  0\n    5.6104    0.4013    0.2196 H   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  0\n  3  2  2  0\n  4  3  1  0\n  5  4  2  0\n  6  5  1  0\n  7  6  2  0\n  7  2  1  0\n  8  7  1  0\n  9  8  1  0\n  9  1  2  0\n 10  8  1  0\n 11 10  1  0\n 12 11  1  0\n 13 12  1  0\n 14 13  1  0\n 15 13  1  0\n 15 10  1  0\n 16 15  1  0\n 17 12  1  0\n 18 17  1  0\n 19  3  1  0\n 20  5  1  0\n 21  9  1  0\n 10 22  1  6\n 12 23  1  6\n 13 24  1  1\n 25 14  1  0\n 15 26  1  1\n 27 16  1  0\n 17 28  1  1\n 29 17  1  0\n 30 18  1  0\n 31 19  1  0\n 32 19  1  0\nM  END\n"
+    },
+    "benzylpenicillin": {
+      "symbols": [
+        "C",
+        "C",
+        "C",
+        "N",
+        "C",
+        "S",
+        "C",
+        "C",
+        "O",
+        "N",
+        "C",
+        "O",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "O",
+        "O",
+        "C",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H"
+      ],
+      "molblock": "\n     RDKit          3D\n\n 41 43  0  0  0  0  0  0  0  0999 V2000\n    0.7206    1.6978    1.0402 C   0  0  2  0  0  0  0  0  0  0  0  0\n    1.7638    1.2408    0.0174 C   0  0  1  0  0  0  0  0  0  0  0  0\n    2.6296    0.0831    0.6376 C   0  0  1  0  0  0  0  0  0  0  0  0\n    1.9290   -1.1515    0.3741 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2008   -1.2506   -0.8958 C   0  0  2  0  0  0  0  0  0  0  0  0\n    0.9197    0.4659   -1.4544 S   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0554   -2.0023   -0.1401 C   0  0  1  0  0  0  0  0  0  0  0  0\n    0.8690   -1.6506    1.1379 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.6866   -1.6726    2.3192 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.2451   -1.4353   -0.2126 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.3859   -2.1721   -0.3079 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.3977   -3.3858   -0.3670 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6828   -1.3554   -0.3468 C   0  0  2  0  0  0  0  0  0  0  0  0\n   -3.5339    0.1232   -0.1151 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.4844    0.6357    1.1828 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.2688    1.9889    1.4055 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0984    2.8547    0.3304 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1473    2.3577   -0.9659 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.3632    1.0023   -1.1847 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0608    0.0752    0.1327 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.9576    0.6740    0.6630 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2164   -0.6493   -0.9918 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5817    2.4343   -0.4675 C   0  0  1  0  0  0  0  0  0  0  0  0\n    0.1572    0.8646    1.4567 H   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0104    2.3812    0.5762 H   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2121    2.2161    1.8674 H   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6884    0.2244    1.7157 H   0  0  0  0  0  0  0  0  0  0  0  0\n    1.7133   -1.8056   -1.6761 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0096   -3.0678   -0.3525 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3172   -0.4295   -0.2142 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3367   -1.8074    0.4002 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.1372   -1.5558   -1.3190 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6052   -0.0362    2.0240 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.2332    2.3680    2.4187 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9322    3.9101    0.5031 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0176    3.0242   -1.8088 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.3919    0.6190   -2.1975 H   0  0  0  0  0  0  0  0  0  0  0  0\n    5.1495   -0.5831   -1.2500 H   0  0  0  0  0  0  0  0  0  0  0  0\n    3.2873    2.1538   -1.2477 H   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9188    3.2000   -0.8715 H   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1373    2.8708    0.3638 H   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  0\n  3  2  1  0\n  4  3  1  0\n  5  4  1  0\n  6  5  1  0\n  2  6  1  6\n  7  5  1  0\n  8  7  1  0\n  8  4  1  0\n  9  8  2  0\n 10  7  1  0\n 11 10  1  0\n 12 11  2  0\n 13 11  1  0\n 14 13  1  0\n 15 14  2  0\n 16 15  1  0\n 17 16  2  0\n 18 17  1  0\n 19 18  2  0\n 19 14  1  0\n 20  3  1  0\n 21 20  2  0\n 22 20  1  0\n 23  2  1  0\n  1 24  1  1\n 25  1  1  0\n 26  1  1  0\n  3 27  1  1\n  5 28  1  6\n  7 29  1  6\n 30 10  1  0\n 13 31  1  1\n 32 13  1  0\n 33 15  1  0\n 34 16  1  0\n 35 17  1  0\n 36 18  1  0\n 37 19  1  0\n 38 22  1  0\n 23 39  1  6\n 40 23  1  0\n 41 23  1  0\nM  END\n"
+    },
+    "efavirenz": {
+      "symbols": [
+        "O",
+        "C",
+        "N",
+        "C",
+        "C",
+        "C",
+        "C",
+        "Cl",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "F",
+        "F",
+        "F",
+        "O",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H"
+      ],
+      "molblock": "\n     RDKit          3D\n\n 30 32  0  0  0  0  0  0  0  0999 V2000\n   -0.2355   -3.8839   -1.3603 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4446   -2.7632   -0.9887 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7000   -2.2355   -0.8312 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.9700   -0.8961   -0.5791 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.2538   -0.3754   -0.7256 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.4915    0.9666   -0.4792 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4403    1.7917   -0.0995 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.7334    3.4833    0.1973 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1587    1.2837    0.0443 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9254   -0.0642   -0.1845 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4410   -0.6912    0.0174 C   0  0  1  0  0  0  0  0  0  0  0  0\n    1.5216    0.1984   -0.3677 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4078    0.9536   -0.6624 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4819    1.8310   -1.0040 C   0  0  2  0  0  0  0  0  0  0  0  0\n    4.8792    1.2632   -1.1773 C   0  0  1  0  0  0  0  0  0  0  0  0\n    4.5733    2.1054    0.0157 C   0  0  2  0  0  0  0  0  0  0  0  0\n    0.6280   -1.0954    1.5149 C   0  0  1  0  0  0  0  0  0  0  0  0\n    0.5370   -0.0206    2.3126 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3237   -1.9677    1.8914 F   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8148   -1.6700    1.7229 F   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5913   -1.9140   -0.7420 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4501   -2.8596   -1.0794 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.0649   -1.0207   -1.0381 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.4856    1.3751   -0.5905 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3446    1.9294    0.3380 H   0  0  0  0  0  0  0  0  0  0  0  0\n    3.2129    2.6536   -1.6549 H   0  0  0  0  0  0  0  0  0  0  0  0\n    4.9915    0.1982   -1.0348 H   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4794    1.6854   -1.9710 H   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4778    1.6157    0.9740 H   0  0  0  0  0  0  0  0  0  0  0  0\n    4.9608    3.1139    0.0530 H   0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  2  0\n  3  2  1  0\n  4  3  1  0\n  5  4  2  0\n  6  5  1  0\n  7  6  2  0\n  8  7  1  0\n  9  7  1  0\n 10  9  2  0\n 10  4  1  0\n 11 10  1  0\n 11 12  1  6\n 13 12  3  0\n 14 13  1  0\n 15 14  1  0\n 16 15  1  0\n 16 14  1  0\n 17 11  1  0\n 17 18  1  1\n 19 17  1  0\n 20 17  1  0\n 21 11  1  0\n 21  2  1  0\n 22  3  1  0\n 23  5  1  0\n 24  6  1  0\n 25  9  1  0\n 14 26  1  6\n 15 27  1  1\n 28 15  1  0\n 16 29  1  1\n 30 16  1  0\nM  END\n"
+    }
+  },
+  "coordinates_sha256": "da27d2c8b5dd38e13f7f12e49388dbb2d8e34505080ee274181cbade915745de",
+  "official_source": {
+    "md5": "eb3c137c40e51661a11406845005fa3a",
+    "sha256": "ba870108f0644a885431db040a2cd7712c7ae524a3bc3405a33f117f4e615cd4",
+    "doi": "10.1021/acs.jctc.5c00015.s003",
+    "url": "https://acs.figshare.com/ndownloader/files/53596427",
+    "license": "CC BY-NC 4.0",
+    "selected_conformer_ids": {
+      "adenosine": [
+        "ado_01",
+        "ado_02",
+        "ado_04",
+        "ado_09",
+        "ado_12",
+        "ado_14",
+        "ado_22",
+        "ado_27",
+        "ado_35",
+        "ado_41"
+      ],
+      "benzylpenicillin": [
+        "bpn_01",
+        "bpn_02",
+        "bpn_04",
+        "bpn_09",
+        "bpn_12",
+        "bpn_14",
+        "bpn_22",
+        "bpn_27",
+        "bpn_35",
+        "bpn_41"
+      ],
+      "efavirenz": [
+        "efa_01",
+        "efa_02",
+        "efa_04",
+        "efa_09",
+        "efa_12",
+        "efa_14",
+        "efa_22",
+        "efa_27",
+        "efa_35",
+        "efa_41"
+      ]
+    }
+  }
+}
