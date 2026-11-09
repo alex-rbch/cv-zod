@@ -1,4 +1,4 @@
-# Control-Variate Zeroth-Order Descent ([arXiv](https://arxiv.org/abs/2609.08277))
+# Control-Variate Zeroth-Order Descent
 
 Code for **Adaptively Incorporating Directional Hints into Zeroth-Order Optimization**.
 
